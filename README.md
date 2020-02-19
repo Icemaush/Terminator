@@ -4,4 +4,4 @@ A program designed to scan your network for connected hosts and return user deta
 
 Once the scan is complete you can connect to any PC using the IP address found via WMI. When the connection is made you can view all running processes on the PC and have the option to terminate the selected process.
 
-*** Works in a lab envrionment running Windows Education (and possibly Pro) ***
+*** Works in a lab environment running Windows Education (and possibly Pro) ***
